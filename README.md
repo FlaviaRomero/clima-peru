@@ -2,6 +2,8 @@
 
 Tarea 3, Python Intermedio. Parte 1: análisis de datos.
 
+**Dashboard interactivo:** https://clima-peru-abcgummraaqgys9jmpaqpb.streamlit.app/
+
 ## Pregunta
 ¿Qué provincias y departamentos del Perú presentan las mayores variaciones de temperatura o precipitación
 entre 1991 y 2025?
